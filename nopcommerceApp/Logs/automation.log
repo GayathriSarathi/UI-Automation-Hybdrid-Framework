@@ -1,0 +1,216 @@
+04/12/22 113315 PM : INFO : 
+
+04/12/22 113315 PM : INFO : ====== WebDriver manager ======
+04/12/22 113316 PM : INFO : Current google-chrome version is 100.0.4896
+04/12/22 113316 PM : INFO : Get LATEST chromedriver version for 100.0.4896 google-chrome
+04/12/22 113316 PM : INFO : Driver [C:\Users\GAYATHRI\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+04/12/22 113318 PM : INFO : __________________________________Test_001_Login-------------------------------------
+04/12/22 113323 PM : INFO : _____________________Verifying Home page title -------------------------------
+04/12/22 113323 PM : INFO : _________________________________Home page title passed-----------------------------
+04/12/22 113323 PM : INFO : 
+
+04/12/22 113323 PM : INFO : ====== WebDriver manager ======
+04/12/22 113324 PM : INFO : Current google-chrome version is 100.0.4896
+04/12/22 113324 PM : INFO : Get LATEST chromedriver version for 100.0.4896 google-chrome
+04/12/22 113324 PM : INFO : Driver [C:\Users\GAYATHRI\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+04/12/22 113329 PM : INFO : __________________________________Verifying Log in  page-------------------------------------
+04/12/22 113334 PM : INFO : __________________________________Log in page test passed-------------------------------------
+04/13/22 100911 AM : INFO : 
+
+04/13/22 100911 AM : INFO : ====== WebDriver manager ======
+04/13/22 100911 AM : INFO : Current google-chrome version is 100.0.4896
+04/13/22 100911 AM : INFO : Get LATEST chromedriver version for 100.0.4896 google-chrome
+04/13/22 100912 AM : INFO : Trying to download new driver from https://chromedriver.storage.googleapis.com/100.0.4896.60/chromedriver_win32.zip
+04/13/22 100914 AM : INFO : Driver has been saved in cache [C:\Users\GAYATHRI\.wdm\drivers\chromedriver\win32\100.0.4896.60]
+04/13/22 100916 AM : INFO : ********************************Test_002_DDT_Login*********************************
+04/13/22 100918 AM : INFO : __________________________________Verifying Log in  page-------------------------------------
+04/13/22 101033 AM : INFO : 
+
+04/13/22 101033 AM : INFO : ====== WebDriver manager ======
+04/13/22 101034 AM : INFO : Current google-chrome version is 100.0.4896
+04/13/22 101034 AM : INFO : Get LATEST chromedriver version for 100.0.4896 google-chrome
+04/13/22 101034 AM : INFO : Driver [C:\Users\GAYATHRI\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+04/13/22 101036 AM : INFO : ********************************Test_002_DDT_Login*********************************
+04/13/22 101037 AM : INFO : __________________________________Verifying Log in  page-------------------------------------
+04/13/22 103436 AM : INFO : 
+
+04/13/22 103436 AM : INFO : ====== WebDriver manager ======
+04/13/22 103437 AM : INFO : Current google-chrome version is 100.0.4896
+04/13/22 103437 AM : INFO : Get LATEST chromedriver version for 100.0.4896 google-chrome
+04/13/22 103437 AM : INFO : Driver [C:\Users\GAYATHRI\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+04/13/22 103438 AM : INFO : ********************************Test_002_DDT_Login*********************************
+04/13/22 103440 AM : INFO : __________________________________Verifying Log in  page-------------------------------------
+04/14/22 113542 PM : INFO : 
+
+04/14/22 113542 PM : INFO : ====== WebDriver manager ======
+04/14/22 113544 PM : INFO : Current google-chrome version is 100.0.4896
+04/14/22 113544 PM : INFO : Get LATEST chromedriver version for 100.0.4896 google-chrome
+04/14/22 113545 PM : INFO : Trying to download new driver from https://chromedriver.storage.googleapis.com/100.0.4896.60/chromedriver_win32.zip
+04/14/22 113550 PM : INFO : Driver has been saved in cache [C:\Users\GAYATHRI\.wdm\drivers\chromedriver\win32\100.0.4896.60]
+04/14/22 113553 PM : INFO : ******************Test_003_AddCustomer_Login*************************
+04/14/22 113605 PM : INFO : ****************************Login was successful***********************
+04/14/22 113605 PM : INFO : *******************************Add Customer Test ******************************
+04/14/22 113610 PM : INFO : *************************Adding Customer info details***************************************
+04/14/22 113634 PM : INFO : ***************************************Saving added info***********************************
+04/14/22 114537 PM : INFO : 
+
+04/14/22 114537 PM : INFO : ====== WebDriver manager ======
+04/14/22 114539 PM : INFO : Current google-chrome version is 100.0.4896
+04/14/22 114539 PM : INFO : Get LATEST chromedriver version for 100.0.4896 google-chrome
+04/14/22 114539 PM : INFO : Driver [C:\Users\GAYATHRI\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+04/14/22 114541 PM : INFO : ******************Test_003_AddCustomer_Login*************************
+04/14/22 114552 PM : INFO : ****************************Login was successful***********************
+04/14/22 114552 PM : INFO : *******************************Add Customer Test ******************************
+04/14/22 114644 PM : INFO : 
+
+04/14/22 114644 PM : INFO : ====== WebDriver manager ======
+04/14/22 114646 PM : INFO : Current google-chrome version is 100.0.4896
+04/14/22 114646 PM : INFO : Get LATEST chromedriver version for 100.0.4896 google-chrome
+04/14/22 114646 PM : INFO : Driver [C:\Users\GAYATHRI\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+04/14/22 114648 PM : INFO : ******************Test_003_AddCustomer_Login*************************
+04/14/22 114715 PM : INFO : ****************************Login was successful***********************
+04/14/22 114715 PM : INFO : *******************************Add Customer Test ******************************
+04/14/22 114719 PM : INFO : *************************Adding Customer info details***************************************
+04/14/22 114743 PM : INFO : ***************************************Saving added info***********************************
+04/14/22 114746 PM : INFO : **************Customer added successfully************************************
+04/14/22 114746 PM : INFO : *********************Customer addition test case was successful***********************
+04/15/22 092322 AM : INFO : 
+
+04/15/22 092322 AM : INFO : ====== WebDriver manager ======
+04/15/22 092324 AM : INFO : Current google-chrome version is 100.0.4896
+04/15/22 092324 AM : INFO : Get LATEST chromedriver version for 100.0.4896 google-chrome
+04/15/22 092324 AM : INFO : Trying to download new driver from https://chromedriver.storage.googleapis.com/100.0.4896.60/chromedriver_win32.zip
+04/15/22 092333 AM : INFO : Driver has been saved in cache [C:\Users\GAYATHRI\.wdm\drivers\chromedriver\win32\100.0.4896.60]
+04/15/22 092335 AM : INFO : ******************Test_003_AddCustomer_Login*************************
+04/15/22 092345 AM : INFO : ****************************Login was successful***********************
+04/15/22 092345 AM : INFO : *******************************Add Customer Test ******************************
+04/15/22 092354 AM : INFO : *************************Adding Customer info details***************************************
+04/15/22 092417 AM : INFO : ***************************************Saving added info***********************************
+04/15/22 092421 AM : INFO : **************Customer added successfully************************************
+04/15/22 092421 AM : INFO : *********************Customer addition test case was successful***********************
+04/15/22 111526 AM : INFO : 
+
+04/15/22 111526 AM : INFO : ====== WebDriver manager ======
+04/15/22 111528 AM : INFO : Current google-chrome version is 100.0.4896
+04/15/22 111528 AM : INFO : Get LATEST chromedriver version for 100.0.4896 google-chrome
+04/15/22 111528 AM : INFO : Driver [C:\Users\GAYATHRI\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+04/15/22 111530 AM : INFO : ******************Test_004_SearchCustomer_Login*************************
+04/15/22 111554 AM : INFO : ****************************Login was successful***********************
+04/15/22 111554 AM : INFO : *******************************Search Customer Test ******************************
+04/15/22 111602 AM : INFO : ********************Enter details of existing customer to search**********************
+04/15/22 113304 AM : INFO : 
+
+04/15/22 113304 AM : INFO : ====== WebDriver manager ======
+04/15/22 113306 AM : INFO : Current google-chrome version is 100.0.4896
+04/15/22 113306 AM : INFO : Get LATEST chromedriver version for 100.0.4896 google-chrome
+04/15/22 113307 AM : INFO : Driver [C:\Users\GAYATHRI\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+04/15/22 113309 AM : INFO : ******************Test_004_SearchCustomer_Login*************************
+04/15/22 113352 AM : INFO : ****************************Login was successful***********************
+04/15/22 113352 AM : INFO : *******************************Search Customer Test ******************************
+04/15/22 113355 AM : INFO : ********************Enter details of existing customer to search**********************
+04/15/22 113712 AM : INFO : 
+
+04/15/22 113712 AM : INFO : ====== WebDriver manager ======
+04/15/22 113713 AM : INFO : Current google-chrome version is 100.0.4896
+04/15/22 113713 AM : INFO : Get LATEST chromedriver version for 100.0.4896 google-chrome
+04/15/22 113714 AM : INFO : Driver [C:\Users\GAYATHRI\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+04/15/22 113715 AM : INFO : ******************Test_004_SearchCustomer_Login*************************
+04/15/22 113730 AM : INFO : ****************************Login was successful***********************
+04/15/22 113730 AM : INFO : *******************************Search Customer Test ******************************
+04/15/22 113735 AM : INFO : ********************Enter details of existing customer to search**********************
+04/15/22 125723 PM : INFO : 
+
+04/15/22 125723 PM : INFO : ====== WebDriver manager ======
+04/15/22 125724 PM : INFO : Current google-chrome version is 100.0.4896
+04/15/22 125724 PM : INFO : Get LATEST chromedriver version for 100.0.4896 google-chrome
+04/15/22 125725 PM : INFO : Driver [C:\Users\GAYATHRI\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+04/15/22 125726 PM : INFO : ******************Test_004_SearchCustomer_Login*************************
+04/15/22 125805 PM : INFO : 
+
+04/15/22 125805 PM : INFO : ====== WebDriver manager ======
+04/15/22 125807 PM : INFO : Current google-chrome version is 100.0.4896
+04/15/22 125807 PM : INFO : Get LATEST chromedriver version for 100.0.4896 google-chrome
+04/15/22 125807 PM : INFO : Driver [C:\Users\GAYATHRI\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+04/15/22 125808 PM : INFO : ******************Test_004_SearchCustomer_Login*************************
+04/15/22 125819 PM : INFO : ****************************Login was successful***********************
+04/15/22 125819 PM : INFO : *******************************Search Customer Test ******************************
+04/15/22 125821 PM : INFO : ********************Enter details of existing customer to search**********************
+04/15/22 010344 PM : INFO : 
+
+04/15/22 010344 PM : INFO : ====== WebDriver manager ======
+04/15/22 010346 PM : INFO : Current google-chrome version is 100.0.4896
+04/15/22 010346 PM : INFO : Get LATEST chromedriver version for 100.0.4896 google-chrome
+04/15/22 010346 PM : INFO : Driver [C:\Users\GAYATHRI\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+04/15/22 010347 PM : INFO : ******************Test_004_SearchCustomer_Login*************************
+04/15/22 010402 PM : INFO : 
+
+04/15/22 010402 PM : INFO : ====== WebDriver manager ======
+04/15/22 010403 PM : INFO : Current google-chrome version is 100.0.4896
+04/15/22 010403 PM : INFO : Get LATEST chromedriver version for 100.0.4896 google-chrome
+04/15/22 010404 PM : INFO : Driver [C:\Users\GAYATHRI\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+04/15/22 010405 PM : INFO : ******************Test_004_SearchCustomer_Login*************************
+04/15/22 010419 PM : INFO : ****************************Login was successful***********************
+04/15/22 010419 PM : INFO : *******************************Search Customer Test ******************************
+04/15/22 010422 PM : INFO : ********************Enter details of existing customer to search**********************
+04/15/22 045301 PM : INFO : 
+
+04/15/22 045301 PM : INFO : ====== WebDriver manager ======
+04/15/22 045302 PM : INFO : Current google-chrome version is 100.0.4896
+04/15/22 045302 PM : INFO : Get LATEST chromedriver version for 100.0.4896 google-chrome
+04/15/22 045303 PM : INFO : Driver [C:\Users\GAYATHRI\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+04/15/22 045304 PM : INFO : ******************Test_004_SearchCustomer_Login*************************
+04/15/22 045315 PM : INFO : ****************************Login was successful***********************
+04/15/22 045315 PM : INFO : *******************************Search Customer Test ******************************
+04/15/22 045317 PM : INFO : ********************Enter details of existing customer to search**********************
+04/15/22 054819 PM : INFO : 
+
+04/15/22 054819 PM : INFO : ====== WebDriver manager ======
+04/15/22 054821 PM : INFO : Current google-chrome version is 100.0.4896
+04/15/22 054821 PM : INFO : Get LATEST chromedriver version for 100.0.4896 google-chrome
+04/15/22 054821 PM : INFO : Driver [C:\Users\GAYATHRI\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+04/15/22 054823 PM : INFO : ******************Test_004_SearchCustomer_Login*************************
+04/15/22 054838 PM : INFO : ****************************Login was successful***********************
+04/15/22 054838 PM : INFO : *******************************Search Customer Test ******************************
+04/15/22 055355 PM : INFO : 
+
+04/15/22 055355 PM : INFO : ====== WebDriver manager ======
+04/15/22 055356 PM : INFO : Current google-chrome version is 100.0.4896
+04/15/22 055356 PM : INFO : Get LATEST chromedriver version for 100.0.4896 google-chrome
+04/15/22 055357 PM : INFO : Driver [C:\Users\GAYATHRI\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+04/15/22 055358 PM : INFO : ******************Test_004_SearchCustomer_Login*************************
+04/15/22 055409 PM : INFO : ****************************Login was successful***********************
+04/15/22 055409 PM : INFO : *******************************Search Customer Test ******************************
+04/15/22 055412 PM : INFO : ********************Enter details of existing customer to search**********************
+04/15/22 055415 PM : INFO : *********************Customer addition test case was successful***********************
+04/15/22 055506 PM : INFO : 
+
+04/15/22 055506 PM : INFO : ====== WebDriver manager ======
+04/15/22 055507 PM : INFO : Current google-chrome version is 100.0.4896
+04/15/22 055507 PM : INFO : Get LATEST chromedriver version for 100.0.4896 google-chrome
+04/15/22 055507 PM : INFO : Driver [C:\Users\GAYATHRI\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+04/15/22 055509 PM : INFO : ******************Test_004_SearchCustomer_Login*************************
+04/15/22 055538 PM : INFO : ****************************Login was successful***********************
+04/15/22 055538 PM : INFO : *******************************Search Customer Test ******************************
+04/15/22 055541 PM : INFO : ********************Enter details of existing customer to search**********************
+04/15/22 055544 PM : INFO : *********************Customer addition test case was successful***********************
+04/15/22 061335 PM : INFO : 
+
+04/15/22 061335 PM : INFO : ====== WebDriver manager ======
+04/15/22 061337 PM : INFO : Current google-chrome version is 100.0.4896
+04/15/22 061337 PM : INFO : Get LATEST chromedriver version for 100.0.4896 google-chrome
+04/15/22 061337 PM : INFO : Driver [C:\Users\GAYATHRI\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+04/15/22 061338 PM : INFO : ******************Test_004_SearchCustomer_Login*************************
+04/15/22 061353 PM : INFO : ****************************Login was successful***********************
+04/15/22 061353 PM : INFO : *******************************Search Customer Test ******************************
+04/15/22 061356 PM : INFO : ********************Enter details of existing customer to search**********************
+04/15/22 063032 PM : INFO : 
+
+04/15/22 063032 PM : INFO : ====== WebDriver manager ======
+04/15/22 063034 PM : INFO : Current google-chrome version is 100.0.4896
+04/15/22 063034 PM : INFO : Get LATEST chromedriver version for 100.0.4896 google-chrome
+04/15/22 063034 PM : INFO : Driver [C:\Users\GAYATHRI\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+04/15/22 063036 PM : INFO : ******************Test_004_SearchCustomer_Login*************************
+04/15/22 063051 PM : INFO : ****************************Login was successful***********************
+04/15/22 063051 PM : INFO : *******************************Search Customer Test ******************************
+04/15/22 063053 PM : INFO : ********************Enter details of existing customer to search**********************
+04/15/22 063057 PM : INFO : *********************Customer addition test case was successful***********************
